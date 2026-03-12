@@ -1,14 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
 
 body {
-  background-color: hsl(212, 45%, 89%);
+  background-color: hsl(212, 98%, 79%);
   font-family: "Outfit";
 }
 
 .par_small {
   font-size: 15px;
   color: hsl(216, 15%, 48%);
+  font-weight: 400;
 }
-h2 {
+.main_head {
   color: hsl(218, 44%, 22%);
+  font-weight: 700;
 }
